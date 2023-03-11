@@ -1,0 +1,6 @@
+version: 3
+endpoint: https://singular-mollusk-75.hasura.app
+metadata_directory: metadata
+actions:
+  kind: synchronous
+  handler_webhook_baseurl: https://singular-mollusk-75.hasura.app
